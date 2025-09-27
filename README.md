@@ -1,2 +1,3 @@
-# FPS-CFDgameEngine
-Making an FPS game engine and also CFD engine for accurate physics and mathematics the aim is to develope a physics engine that can simiulate real physics and solve complex CFD problems with limited vram GPUs 
+# CFD SOLVER 
+Making a CFD solver that will use in house tetra mesher and solvers povered by LLMS
+1st initial release includes state of the art Mesher
